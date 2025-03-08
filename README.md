@@ -3,6 +3,7 @@ Advanced React Todo Application
 Overview
 
 This is an advanced Todo application built using React.js and JavaScript. The application allows users to add, edit, delete, and mark tasks as complete while providing additional features like task prioritization, filtering, dark mode, drag-and-drop reordering, and a pie chart visualization of task distribution.
+<img width="1280" alt="Screenshot 2025-03-09 at 12 19 32 AM" src="https://github.com/user-attachments/assets/e5fb932c-6f12-4fb3-8310-d26275efd44b" />
 
 Features
 
