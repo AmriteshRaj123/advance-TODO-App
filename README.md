@@ -7,16 +7,36 @@ This is an advanced Todo application built using React.js and JavaScript. The ap
 
 Features
 
-✅ Add Task: Users can input tasks and add them via a button or Enter key.
+✅ Add Task: Users can input tasks and add them via a button or Enter key.  
+
+
 ✅ Edit Task: Modify existing tasks with a simple click.
+
+
 ✅ Delete Task: Remove unwanted tasks easily.
+
+
 ✅ Mark as Complete: Toggle task completion.
+
+
 ✅ Task Prioritization: Set priority levels (High, Medium, Low) with color coding.
+
+
 ✅ Drag-and-Drop: Reorder tasks easily using drag-and-drop.
+
+
 ✅ Filtering: View tasks based on status - All, Active, or Completed.
+
+
 ✅ Persistent Storage: Uses local storage to save tasks and theme preferences.
+
+
 ✅ Dark Mode Support: Users can toggle between light and dark mode.
+
+
 ✅ Graphical Representation: Pie charts display task status and priority distribution.
+
+
 ✅ Responsive UI: Fully optimized for all screen sizes.
 
 Technologies Used
